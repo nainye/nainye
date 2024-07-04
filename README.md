@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Inye's GitHub stats](https://github-readme-stats.vercel.app/api?username=nainye&show_icons=true&theme=merko)](https://github.com/nainye/github-readme-stats)
+[![Inye's GitHub stats](https://github-readme-stats.vercel.app/api?username=nainye&show_icons=true&theme=swift)](https://github.com/nainye/github-readme-stats)
 
 
 <!--
